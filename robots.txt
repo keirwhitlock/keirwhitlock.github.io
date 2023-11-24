@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://keirwhitlock.github.io/sitemap.xml
