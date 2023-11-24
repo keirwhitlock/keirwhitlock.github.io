@@ -2,22 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://keirwhitlock.github.io/about/</loc>
-  </url><url>
-    <loc>https://keirwhitlock.github.io/blog/</loc>
+    <loc>https://keirwhitlock.github.io/</loc>
   </url><url>
     <loc>https://keirwhitlock.github.io/categories/</loc>
-  </url><url>
-    <loc>https://keirwhitlock.github.io/blog/cicd/</loc>
-  </url><url>
-    <loc>https://keirwhitlock.github.io/blog/java/</loc>
   </url><url>
     <loc>https://keirwhitlock.github.io/</loc>
   </url><url>
     <loc>https://keirwhitlock.github.io/tags/</loc>
-  </url><url>
-    <loc>https://keirwhitlock.github.io/blog/terraform/</loc>
-  </url><url>
-    <loc>https://keirwhitlock.github.io/blog/terraform/create-and-use-a-module/</loc>
   </url>
 </urlset>

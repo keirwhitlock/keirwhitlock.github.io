@@ -7,21 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="https://keirwhitlock.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
-      <link>https://keirwhitlock.github.io/about/</link>
+      <title></title>
+      <link>https://keirwhitlock.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://keirwhitlock.github.io/about/</guid>
-      <description>It&amp;rsquo;s me, Keir.</description>
-    </item>
-    
-    <item>
-      <title>Using Modules</title>
-      <link>https://keirwhitlock.github.io/blog/terraform/create-and-use-a-module/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keirwhitlock.github.io/blog/terraform/create-and-use-a-module/</guid>
-      <description>Creating a Terraform Module resource &amp;#34;aws_s3_bucket&amp;#34; &amp;#34;bucket&amp;#34; { bucket = &amp;#34;mybucket&amp;#34; } </description>
+      <guid>https://keirwhitlock.github.io/</guid>
+      <description>Hi</description>
     </item>
     
   </channel>
